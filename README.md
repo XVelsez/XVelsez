@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velsez&label=Profile%20views&color=0e75b6&style=flat" alt="velsez" /> </p>
 
-- 🌱 I’m currently learning **Mitre ATT&CK, ISO 2700x, NIST, Node.js , Discord.js , Github, JQuery , Wordpress , PHPBB**
+- 🌱 I’m currently learning *to write modern C++ & Rust code**
 
 - 💬 Ask me about Malware Reverse Engineering **using IDA/Binary Ninja/Ghidra**
 
