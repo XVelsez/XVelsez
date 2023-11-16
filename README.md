@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Frank Dasilva</h1>
-<h3 align="center">I'm a Brasilian US Citizen</h3>
+<h3 align="center">I'm a Brasilian US Citizen working in Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velsez&label=Profile%20views&color=0e75b6&style=flat" alt="velsez" /> </p>
 
-- 🌱 I’m currently learning *to write modern C++ & Rust code**
+- 🌱 I’m currently learning *to write modern C++ & Rust code** & Cyber-security frameworks used by companys 
 
 - 💬 Ask me about Malware Reverse Engineering **using IDA/Binary Ninja/Ghidra**
 
-- 📫 How to reach me **velsezx@gmail.com**
+- 📫 How to reach me **velsezx@gmail.com** or Velsez on discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
