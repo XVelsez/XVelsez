@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frank Dasilva</h1>
-<h3 align="center">I'm a Brasilian US Citizen working in Cyber Security</h3>
+<h3 align="center">I'm a Information Security Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velsez&label=Profile%20views&color=0e75b6&style=flat" alt="velsez" /> </p>
 
