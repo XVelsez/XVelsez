@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/frank-dasilva-275a62251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frank-dasilva-275a62251/" height="30" width="40" /></a>
-<a href="https://instagram.com/trynafindvelsez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trynafindvelsez" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Velsez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@Velsez" height="30" width="40" /></a>
 <a href="https://discord.gg/ZS9wSpwebM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZS9wSpwebM" height="30" width="40" /></a>
 </p>
